@@ -1,0 +1,10 @@
+node_modules/
+
+dist/*
+build/*
+uploads/images/*
+
+/process.env
+
+/.idea
+.idea/workspace.xml
