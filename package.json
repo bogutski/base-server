@@ -17,8 +17,8 @@
   "author": "Viktor Bogutskii",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^5.0.0-alpha.7",
+    "body-parser": "^1.20.1",
+    "express": "^5.0.0-beta.1",
     "lodash": "^4.17.15",
     "morgan": "^1.10.0",
     "uuid": "^7.0.3"
